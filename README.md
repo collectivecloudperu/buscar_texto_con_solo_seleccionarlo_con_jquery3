@@ -1,1 +1,2 @@
-# buscar_texto_con_solo_seleccionarlo_con_jquery3
+# Buscar Texto con solo Seleccionarlo mediante jQuery 3 
+Tutorial: 
